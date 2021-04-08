@@ -6,7 +6,7 @@
 #include <curl/curl.h>
 
 #define N 20
-
+// add comment
 typedef struct {
 	int max;
 	int min;
