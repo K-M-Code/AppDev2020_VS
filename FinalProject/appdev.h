@@ -7,10 +7,12 @@
 
 #define N 20
 // add comment
+// modified from GitHub
 typedef struct {
 	int max;
 	int min;
 	char name[20];
 }rock;
 
+// this is for function prototypes
 void send_data(rock);
