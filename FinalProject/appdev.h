@@ -7,6 +7,7 @@
 
 #define N 20
 // add comment
+// modified from GitHub too
 // modified from GitHub
 // modified from VS Code
 typedef struct {
