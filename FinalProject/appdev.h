@@ -8,6 +8,7 @@
 #define N 20
 // add comment
 // modified from GitHub
+// modified from VS Code
 typedef struct {
 	int max;
 	int min;
