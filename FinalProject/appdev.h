@@ -7,7 +7,7 @@
 
 #define N 20
 // add comment
-// modified from GitHub
+// modified from GitHub too
 typedef struct {
 	int max;
 	int min;
