@@ -27,4 +27,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="appdev.html">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="record.php">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
